@@ -1,30 +1,41 @@
-# 💫 About Me:
-I am an aspiring Data science and data analyst. Currently working on DataForge<br>which is an agentic deep data analysis tool built for beginners and expert data<br>and business analysts. 
+<h1 align="center">Hi, I'm Arpit 👋</h1>
 
-
-# 💻 Tech Stack:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arpit090404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Arpit090404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arpit090404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  Final-year CS (AI/ML) student at Manipal Institute of Technology<br/>
+  Aspiring data scientist and analyst, building ML systems from first principles
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arpit090404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Currently working on
 
-<!--
-**Arpit090404/Arpit090404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DataForge**: an agentic deep data analysis tool for beginners and expert data and business analysts.
 
-Here are some ideas to get you started:
+## 🛠️ Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is |
+|---|---|
+| [**DataForge**](https://github.com/Arpit090404/DataForge) | Agentic deep data analysis tool for analysts of all levels |
+| [**PicoGPT**](https://github.com/Arpit090404/PicoGPT) | Decoder-only transformer built from scratch in PyTorch |
+| [**VaultMind**](https://github.com/Arpit090404/VaultMind) | Local RAG pipeline over an Obsidian vault |
+| [**E-Commerce Intelligence Platform**](https://github.com/Arpit090404/E-Commerce-Intelligence-Platform) | BigQuery, XGBoost, KMeans and SHAP with a Streamlit dashboard |
+| [**igpu-profiler**](https://github.com/Arpit090404/igpu-profiler) | CLI that correlates Intel GPU telemetry with local LLM inference |
+
+## 💻 Tech stack
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Arpit090404&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arpit090404&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+## 📫 Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpit.090404@gmail.com)
